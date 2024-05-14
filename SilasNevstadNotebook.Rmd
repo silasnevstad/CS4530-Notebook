@@ -1,6 +1,18 @@
 # Entry
 1
 ## Start time
+05/9/24 10:30
+## Purpose
+Setup project repositories
+## Outcomes
+Created repo for project code and for notebooks, sharing with group members.
+## End time
+05/9/24 10:30
+
+
+# Entry
+2
+## Start time
 05/14/24 10:30
 ## Purpose
 Started planning project objectives and filling out our SOW.
