@@ -1,0 +1,10 @@
+# Entry
+1
+## Start time
+05/14/24 10:30
+## Purpose
+Started planning project objectives and filling out our SOW.
+## Outcomes
+Created a basic list of goals for our MVP and added some desirable/additional features
+## End time
+05/14/24 11:00
