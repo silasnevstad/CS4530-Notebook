@@ -20,3 +20,25 @@ Started planning project objectives and filling out our SOW.
 Created a basic list of goals for our MVP and added some desirable/additional features
 ## End time
 05/14/24 11:00
+
+# Entry
+3
+## Start time
+05/15/24 9:50
+## Purpose
+To go over and verify that our SOW is correct and sufficient, amending any issues.
+## Outcomes
+Recieved feedback on SOW, due diligence on SOW requirements and format.
+## End time
+05/15/24 10:20
+
+# Entry
+4
+## Start time
+05/16/24 11:30
+## Purpose
+Prepared and layed out my individual work for sprint 0, including what portoin of code to work on, exactly what needed to be programmed, etc
+## Outcomes
+Managed to create and layout detailed steps on what I will have to carry out for sprint 0.
+## End time
+05/15/24 11:45
