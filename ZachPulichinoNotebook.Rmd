@@ -1,1 +1,10 @@
-
+# Entry
+1
+## Start time
+05/16/24 10:30
+## Purpose
+Setup Google Drive Folder
+## Outcomes
+Created a drive to hold our SOW and Sprint Tasks.
+## End time
+05/16/24 10:40
