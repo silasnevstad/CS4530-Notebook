@@ -42,3 +42,22 @@ Prepared and layed out my individual work for sprint 0, including what portoin o
 Managed to create and layout detailed steps on what I will have to carry out for sprint 0.
 ## End time
 05/15/24 11:45
+
+# Entry
+5
+## Start time
+05/16/24 14:00
+## Purpose
+Set up/implement the server (SSL, basic endpoints, authentication)
+## Commit(s)
+Waiting to commit
+## Ownership
++467 = 467
+## Outcomes
+- Set up the project structure with Maven and necessary dependencies.
+- Implemented basic authentication using SSL.
+- Created endpoints for `register`, `getPublishers`, `createSheet`, `deleteSheet`, `getSheets`.
+- Tested functionality with initial tests.
+- Set up postman collection for testing API routes.
+## End time
+05/16/24 16:00
