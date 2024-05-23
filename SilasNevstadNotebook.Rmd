@@ -61,3 +61,20 @@ Waiting to commit
 - Set up postman collection for testing API routes.
 ## End time
 05/16/24 16:00
+
+# Entry
+6
+## Start time
+05/22/24 21:00
+## Purpose
+Push sprint 0, setting up the server
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/a27cf2617d79deeb1e569b0f02ac7abc176cc099
+## Ownership
+-2 +538 = 536
+## Outcomes
+- Reviewed code and tests, making final checks and ensuring everything is in place before pushing.
+- Wrote server-architecture.md documenting the server implementation in detail.
+- Pushed changes to repo.
+## End time
+05/22/24 21:30
