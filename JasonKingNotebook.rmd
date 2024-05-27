@@ -1,1 +1,11 @@
+# Entry
+1
+## Start time
+05/27/24 12:50
+## Purpose
+Incredibly behind, catching up with my entire sprint one and more intently defining Sprint 2 goals.
+## Outcomes
+Created repo for project code and for notebooks, sharing with group members.
+## End time
+
 
