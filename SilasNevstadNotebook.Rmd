@@ -78,3 +78,43 @@ https://github.com/silasnevstad/CS4530-Project/commit/a27cf2617d79deeb1e569b0f02
 - Pushed changes to repo.
 ## End time
 05/22/24 21:30
+
+# Entry
+7
+## Start time
+05/27/24 12:00
+## Purpose
+Small fixes and optimizations
+## Ownership
+-2 +6 = 4
+## Outcomes
+- Scanned over previous work for optimizations and refactoring
+- Optimized a few lines
+- Made plan for next session
+## End time
+05/27/24 12:20
+
+# Entry
+8
+## Start time
+05/29/24 1:35
+## Purpose
+Sprint 2 goals, implement rest of endpoints w/ testing (updates and subscriptions) and finish pre assigned auth.
+## Commit(s)
+[Code](https://github.com/silasnevstad/CS4530-Project/commit/2a8ae07559889591a6a8e9f42da4e0251f1f3854)
+[Tests](https://github.com/silasnevstad/CS4530-Project/commit/c2fd8e3c426a507f888f6ca6287ec7ee2da73809)
+## Ownership
+-93 +265 = 712
+-2 +397 = 1107
+## Outcomes
+- Implemented all remaining endpoints:
+  - `POST /api/v1/getUpdatesForSubscription`
+  - `POST /api/v1/getUpdatesForPublished`
+  - `POST /api/v1/updatePublished`
+  - `POST /api/v1/updateSubscription`
+- Completed and tested the pre-assigned auth
+- Verified and tested services and endpoints using JUnit 5 and Mockito
+- Updated design-architecture.md to reflect the current state of the project and testing tools used
+- Added new routes to `Postman` collection
+## End time
+05/27/24 3:45
