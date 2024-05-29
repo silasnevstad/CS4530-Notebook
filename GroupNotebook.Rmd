@@ -1,1 +1,13 @@
-
+# Entry
+1
+## Start time
+05/29/24 11:00
+## Purpose
+Go over Sprint 2 and plan ahead for Sprint 3. Iron out any concerns or issues.
+## Outcomes
+- Each shared current state and individual progress
+- Worked out issues and clarified uncertainties regarding Sprint 2 work.
+- Discussed future work, such as integration of front and back end, data persistence...
+- Planned ahead for Sprint 3 (creating doc and finding/dividing up tasks)
+## End time
+05/29/24 11:30
