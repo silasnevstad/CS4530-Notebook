@@ -8,3 +8,106 @@ Setup Google Drive Folder
 Created a drive to hold our SOW and Sprint Tasks.
 ## End time
 05/16/24 10:40
+
+# Entry
+2
+## Start time
+05/28/24 09:00
+## Purpose
+Implement basic arithmetic functionality in cells.
+## Outcomes
+Added a method to evaluate arithmetic expressions entered in the cells.
+## End time
+05/28/24 10:00
+
+# Entry
+3
+## Start time
+05/28/24 11:00
+## Purpose
+Handle errors in arithmetic evaluation.
+## Outcomes
+Modified the code to display #REF! when an error occurs in the evaluation. Added logic to allow clearing the error.
+## End time
+05/28/24 12:00
+
+# Entry
+4
+## Start time
+05/29/24 14:00
+## Purpose
+Update toolbar to show arithmetic expressions.
+## Outcomes
+Ensured that the toolbar displays the actual formula instead of the evaluated result. Added functionality to display the correct formula when a cell is selected.
+## End time
+05/29/24 15:00
+
+# Entry
+5
+## Start time
+05/29/24 16:30
+## Purpose
+Implement cell alignment options.
+## Outcomes
+Added buttons for aligning cell content (left, center, right). Implemented functionality to adjust cell content alignment based on user selection.
+## End time
+05/29/24 17:30
+
+# Entry
+6
+## Start time
+05/30/24 09:00
+## Purpose
+Implement formatting options: bold, italic, strikethrough.
+## Outcomes
+Added buttons for bold, italic, and strikethrough formatting. Implemented logic to toggle these styles on selected cells.
+## End time
+05/30/24 10:30
+
+# Entry
+7
+## Start time
+05/30/24 11:00
+## Purpose
+Enhance cell formatting options: font size, text color, background color.
+## Outcomes
+Added dropdowns for font size and color selection. Implemented functionality to apply selected styles to cells. Ensured styles are retained when switching between different formatting options.
+## End time
+05/30/24 12:30
+
+# Entry
+8
+## Start time
+05/30/24 14:00
+## Purpose
+Implement undo and redo functionality for formatting changes.
+## Outcomes
+Extended the undo and redo logic to cover changes in font size, color, and alignment. Tested to ensure all formatting changes can be undone and redone accurately.
+## End time
+05/30/24 15:30
+
+# Entry
+9
+## Start time
+05/31/24 09:30
+## Purpose
+Add support for changing cell fonts.
+## Outcomes
+Implemented a dropdown to select different fonts for cell content. Ensured that font changes are applied correctly and can be undone/redone.
+## End time
+05/31/24 10:30
+
+# Entry
+10 
+## Start time
+05/31/24 11:00
+## Purpose
+Code clean up.
+## Outcomes
+Cleaned up the code and added detailed comments for better readability.
+## End time
+05/31/24 13:00
+
+
+
+
