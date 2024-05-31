@@ -102,7 +102,12 @@ Implemented a dropdown to select different fonts for cell content. Ensured that 
 ## Start time
 05/31/24 11:00
 ## Purpose
-Code clean up.
+Code and comment clean up. Pushing Scripts.
+## Ownership
+0 + 445 = 445
+0 + 100 = 100
+## Commits
+
 ## Outcomes
 Cleaned up the code and added detailed comments for better readability.
 ## End time
