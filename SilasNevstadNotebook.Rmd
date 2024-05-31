@@ -4,6 +4,8 @@
 05/9/24 10:30
 ## Purpose
 Setup project repositories
+## Ownership
++156 = 156
 ## Outcomes
 Created repo for project code and for notebooks, sharing with group members.
 ## End time
@@ -52,7 +54,7 @@ Set up/implement the server (SSL, basic endpoints, authentication)
 ## Commit(s)
 Waiting to commit
 ## Ownership
-+467 = 467
++467 = 562
 ## Outcomes
 - Set up the project structure with Maven and necessary dependencies.
 - Implemented basic authentication using SSL.
@@ -71,7 +73,7 @@ Push sprint 0, setting up the server
 ## Commit(s)
 https://github.com/silasnevstad/CS4530-Project/commit/a27cf2617d79deeb1e569b0f02ac7abc176cc099
 ## Ownership
--2 +538 = 536
+-2 +538 = 1098
 ## Outcomes
 - Reviewed code and tests, making final checks and ensuring everything is in place before pushing.
 - Wrote server-architecture.md documenting the server implementation in detail.
@@ -86,7 +88,7 @@ https://github.com/silasnevstad/CS4530-Project/commit/a27cf2617d79deeb1e569b0f02
 ## Purpose
 Small fixes and optimizations
 ## Ownership
--2 +6 = 4
+-2 +6 = 1102
 ## Outcomes
 - Scanned over previous work for optimizations and refactoring
 - Optimized a few lines
@@ -104,8 +106,8 @@ Sprint 2 goals, implement rest of endpoints w/ testing (updates and subscription
 [Code](https://github.com/silasnevstad/CS4530-Project/commit/2a8ae07559889591a6a8e9f42da4e0251f1f3854)
 [Tests](https://github.com/silasnevstad/CS4530-Project/commit/c2fd8e3c426a507f888f6ca6287ec7ee2da73809)
 ## Ownership
--93 +265 = 712
--2 +397 = 1107
+-93 +265 = 1274
+-2 +397 = 1669
 ## Outcomes
 - Implemented all remaining endpoints:
   - `POST /api/v1/getUpdatesForSubscription`
