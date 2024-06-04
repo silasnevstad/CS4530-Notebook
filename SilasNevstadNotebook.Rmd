@@ -124,11 +124,35 @@ Sprint 2 goals, implement rest of endpoints w/ testing (updates and subscription
 # Entry
 9
 ## Start time
-06/03/24 10:15
+06/03/24 22:15
 ## Purpose
 Brainstorming/planning data persistence.
 ## Outcomes
 - Decided on using SQL databsae (SQLite)
 - Planned out design and changes needed (e.g. tables needed, which functions require updates, etc)
 ## End time
-06/03/24 10:30
+06/03/24 22:30
+
+# Entry
+10
+## Start time
+06/04/24 17:00
+## Purpose
+Implement data persistence
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/72679815f2a4f3f621ca7917d25a36054a020cf3
+## Ownership
+-66 +305 = 1974
+## Outcomes
+- Setup SQLite database service.
+  - Configuring the database URL for connection.
+  - Initializing the database with necessary tables (publishers, sheets, updates).
+  - Implementing retry logic for database operations to handle potential SQLITE_BUSY errors.
+- Refactored the PublisherService to use SQLite for data persistence.
+- Combined updates and subscriptions into a single table to streamline update retrieval.
+- Modified functions to use SQL queries for data operations.
+- Fixed and updated tests to work with the new SQLite setup.
+- Ensured tests do not affect the actual production database by using an in-memory database during testing.
+- Updated server-architecture.md to reflect changes made for data persistence.
+## End time
+06/04/24 19:25
