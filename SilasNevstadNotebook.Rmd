@@ -156,3 +156,22 @@ https://github.com/silasnevstad/CS4530-Project/commit/72679815f2a4f3f621ca7917d2
 - Updated server-architecture.md to reflect changes made for data persistence.
 ## End time
 06/04/24 19:25
+
+# Entry
+11
+## Start time
+06/04/24 19:35
+## Purpose
+Commit required encrypted keystore and truststore files (needed for server) + add instructions
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/40442949816fb81b7662dd2ef1d105ab11908ddf
+https://github.com/silasnevstad/CS4530-Project/commit/c303a02a0eb414ec0b47ee2abba43f122b31faed
+https://github.com/silasnevstad/CS4530-Project/commit/ab100b30c9aefd3acf17bc0456faf728060db010
+## Ownership
++45 = 2019
+## Outcomes
+- Encryped and pushed required keystore and truststore files to repo
+- Made decryption bash script for easier decryption
+- Updated README with setup instructions
+## End time
+06/04/24 19:50
