@@ -120,3 +120,15 @@ Sprint 2 goals, implement rest of endpoints w/ testing (updates and subscription
 - Added new routes to `Postman` collection
 ## End time
 05/27/24 3:45
+
+# Entry
+9
+## Start time
+06/03/24 10:15
+## Purpose
+Brainstorming/planning data persistence.
+## Outcomes
+- Decided on using SQL databsae (SQLite)
+- Planned out design and changes needed (e.g. tables needed, which functions require updates, etc)
+## End time
+06/03/24 10:30
