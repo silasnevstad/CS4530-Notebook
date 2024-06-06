@@ -105,7 +105,7 @@ Implemented a dropdown to select different fonts for cell content. Ensured that 
 Code and comment clean up. Pushing Scripts.
 ## Ownership
 0 + 445 = 445
-0 + 100 = 100
+445 + 100 = 545
 ## Commits
 [Code]: https://github.com/silasnevstad/CS4530-Project/commit/3cf355184de5a8d06bb93f3ea8c5cd82202a1289 
 ## Outcomes
@@ -114,5 +114,17 @@ Cleaned up the code and added detailed comments for better readability.
 05/31/24 13:00
 
 
-
-
+# Entry
+11
+## Start Time
+06/05/24 18:30
+## Purpose
+Fix bugs and add other methods into the Arithmetic Parser
+## Ownership
+545 + 60 = 605
+605 + 36 = 641
+## Commits
+[Arithmetic Parser]: https://github.com/silasnevstad/CS4530-Project/commit/6771b80beeac444f427f0bb81db5c3faa2d57272
+[Main]: https://github.com/silasnevstad/CS4530-Project/commit/fabde57f7b08d50cec16145f7dd7cc36237b786c 
+## Outcome
+Added more arithmetic operations to the arithmetic parser, and also turned the operator type to a string so it could read "<>". Also fixed the bug in the Main file regarding the arithmetic parser.
