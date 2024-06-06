@@ -175,3 +175,26 @@ https://github.com/silasnevstad/CS4530-Project/commit/ab100b30c9aefd3acf17bc0456
 - Updated README with setup instructions
 ## End time
 06/04/24 19:50
+
+# Entry
+12
+## Start time
+06/06/24 17:55
+## Purpose
+Add documentation (including owner tags to files), create more tests for edge cases, restructure into server folder
+## Commit(s)
+[Restructure](https://github.com/silasnevstad/CS4530-Project/commit/cfb51b5d66bd8bbafe3272c4c1a6babcc8934356)
+[Owner Tags](https://github.com/silasnevstad/CS4530-Project/commit/81af78a6e12ef2414b5acea82ebbd1a8654ab6f4)
+[Tests + documentation](https://github.com/silasnevstad/CS4530-Project/commit/b92f4d38ddd56d62ab9f7ddd32e6e07ff33650c3)
+## Ownership
+-18 +26 = 2027
++16 = 2043
+-19 +716 = 2740
+## Outcomes
+- Restructured project structure to include server files in server folder
+- Added owner tags to all my files
+- Add documentation throughout my code (functions, explainations, etc)
+- Added more tests for edge cases specifically
+- Added invalid input checks for every endpoint and function (checking if input is invalid)
+## End time
+06/06/24 19:15
