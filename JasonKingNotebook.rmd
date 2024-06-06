@@ -13,7 +13,7 @@ Finished all my Sprint 1 Work
 
 
 # Entry
-1
+2
 ## Start time
 05/28/24 6:23
 ## Purpose
@@ -24,3 +24,17 @@ Reviewed Sprint 1 work,  started Sprint 2 formatting.
 -Added more to my Spreadsheet APP Class for formatting
 ## End time
 8:00
+
+
+# Entry
+2
+## Start time
+06/5/24 10:30
+## Purpose
+Refactor code to add in more comments for readability, as well as implement feedback from code walk (be able to enter formulas with greater flexibility and ensure they work with more than 26 columns.
+## Outcomes
+Code has more comments and the desired improvements where made to my formulas. Also added formulas I forgot to for Sprint 1.
++ ~50 LOC 
+-Was more adding comments and changing code than adding lines
+## End time
+06/5/24 12:30
