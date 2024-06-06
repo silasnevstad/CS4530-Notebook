@@ -6,7 +6,7 @@
 Incredibly behind, catching up with my entire sprint one and more intently defining Sprint 2 goals.
 ## Outcomes
 Finished all my Sprint 1 Work
-+ ~400 LOC
++ ~350 LOC
 -Had to implement Spreadsheet APP Class for testing purposes, as well as a Formula Parsing class and a Spreadsheet Utils Class
 ## End time
 5/27/24 08:50
@@ -23,13 +23,39 @@ Reviewed Sprint 1 work,  started Sprint 2 formatting.
 +100 LOC 
 -Added more to my Spreadsheet APP Class for formatting
 ## End time
-8:00
+05/28/24 8:00
+
+# Entry
+4
+## Start time
+05/31/24 1:00
+## Purpose
+Finish all my sprint 2 work and see if I can do anything extra 
+## Outcomes
+Finsihed my Sprint 2 work(formatting bold, italics, text color, background color, making sure those work with everything else) was unable to do anything extra 
++150 LOC 
+-Added more to my Spreadsheet APP Class for formatting and added a CellSpan class and Cell formatting class
+## End time
+05/31/24 5:30
+
+# Entry
+5
+## Start time
+06/2/24 12:00
+## Purpose
+Finish my Sprint 3 work and see if I can do anything extra.
+## Outcomes
+Finsihed my Sprint 3 work, tried to implement a CSV importer because I had more time, succeeded, tried to implement merging Cells but couldn't get it working because JavaFX tableviews don't natively support it, and the workarounds were not working.
++150 LOC 
+-Added a CSV importer class and made adjustments to SpreadsheetAPP and SpreadSheet Utils and Formula Parser.
+## End time
+06/2/24 6:00
 
 
 # Entry
-2
+6
 ## Start time
-06/5/24 10:30
+05/31/24 10:30
 ## Purpose
 Refactor code to add in more comments for readability, as well as implement feedback from code walk (be able to enter formulas with greater flexibility and ensure they work with more than 26 columns.
 ## Outcomes
