@@ -1,0 +1,118 @@
+# Entry
+1
+## Start time
+5/14/24 10:30
+## Purpose
+Begin project planning and work on SOW.
+## Outcomes
+Created basic outline of features to include in SOW
+## End time
+5/14/24 11:00
+
+# Entry 
+2
+## Start time
+5/16/24 10:30
+## Purpose
+Update Statement of Work document
+## Outcomes
+Incorporated feedback from TA into Statement of Work document. Added User Stories and Acceptance Criteria for tasks.
+## End time
+5/16/24 10:45
+
+# Entry
+3
+## Start time
+5/23/24 4:00
+## Purpose
+Work on Sprint 1 work - welcome page
+## Ownership
++ ~150
+## Outcomes
+- Created basic welcome page GUI with SceneBuilder and javafx
+- Created basic welcome page class with skeleton for code
+## End time
+5/23/24 6:00
+
+# Entry
+4
+## Start time
+5/26/24 1:30
+## Purpose 
+Finish up Sprint 1 work on the welcome page
+## Ownership
++ ~100 = ~250
+## Outcomes
+- Adjusted GUI look with SceneBuilder
+- Created methods and functionality for a first time or existing user signing in
+- Completed Sprint 1 goals
+## End time
+5/26/24 3:00
+
+# Entry
+5
+## Start time
+5/28/24 2:00
+## Purpose
+Start work on Sprint 2 goals - sheet select and creation page UI
+## Ownership
++ ~100 = ~350
+## Outcomes
+- Created basic page layout GUI for selecting and creating sheets with SceneBuilder
+- Created some methods for selecting existing sheets that the user can access
+## End Time
+5/28/24 4:00
+
+# Entry
+6
+## Start Time 
+5/30/24 7:00
+## Purpose
+Start work on Sprint 3 goals - expression implementation - because finishing Sprint 2 goals requires further integration with tasks from others' work
+## Ownership
++ ~150 = ~500
+## Outcomes
+- Created classes and methods for expressions, terms, references, etc.
+- Brainstormed best way to manage interaction between all these different classes
+## End time
+5/30/24 10:00
+
+# Entry
+7
+## Start Time
+6/2/24 5:30
+## Purpose
+Continue work on Sprint 2 goals - creating new sheet
+## Ownership
++ ~100 = ~600
+## Outcomes
+- Created methods for creating new sheets
+- Reworked how selecting existing sheet worked
+- Created convenience methods for determining which sheets users have access to
+- Adjusted GUI layout
+## End Time
+6/2/24 7:45
+
+# Entry
+8
+## Start Time
+6/5/24 8:00
+## Purpose
+Complete Sprint 2 goals - integration with now complete server endpoints
+## Outcomes
+- Refactored sheet creation and opening methods to incorporate correct functinoality with server
+- Added convenience methods for sending necessary requests to server
+## End Time
+6/5/11:30
+
+# Entry
+9
+## Start Time
+6/6/24 5:30
+## Purpose
+Meet with team to discuss final stretch work and coordinate integration between each member's work with other related work
+## Outcomes
+- Decided plan for integration and testing timeline
+- Scheduled demo with TA
+## End Time
+6/6/24 6:00
