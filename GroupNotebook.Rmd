@@ -41,3 +41,16 @@ Review Sprint 3 progress, figure out any issues and plan goals/tasks for Sprint 
 - Discussed collaboration on integration
 ## End time
 06/5/24 11:30
+
+# Entry
+4
+## Start time
+06/6/24 5:30
+## Purpose
+Touch base on progress/remaining goals and tasks, demo the backend, plan next meeting time.
+## Outcomes
+- Planned out final integration of work
+- Demoed backend
+- Decided on data/time for next meeting
+## End time
+06/6/24 5:55
