@@ -6,6 +6,8 @@
 Incredibly behind, catching up with my entire sprint one and more intently defining Sprint 2 goals.
 ## Outcomes
 Finished all my Sprint 1 Work
++ ~400 LOC
+-Had to implement Spreadsheet APP Class for testing purposes, as well as a Formula Parsing class and a Spreadsheet Utils Class
 ## End time
 5/27/24 08:50
 
@@ -17,5 +19,8 @@ Finished all my Sprint 1 Work
 ## Purpose
 Review sprint 1 work before I commit it, start Sprint 2 to scope out how hard it will be tomorrow
 ## Outcomes
-
+Reviewed Sprint 1 work,  started Sprint 2 formatting.
++100 LOC 
+-Added more to my Spreadsheet APP Class for formatting
 ## End time
+8:00
