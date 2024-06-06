@@ -1,6 +1,18 @@
 # Entry
 1
 ## Start time
+05/22/24 11:00
+## Purpose
+Go over Sprint 1 and plan for Sprint 2.
+## Outcomes
+- Discussed everyone's indivial progress
+- Planned ahead for Sprint 2, creating google doc and deciding on/dividing up tasks
+## End time
+05/22/24 11:30
+
+# Entry
+2
+## Start time
 05/29/24 11:00
 ## Purpose
 Go over Sprint 2 and plan ahead for Sprint 3. Iron out any concerns or issues.
@@ -11,3 +23,21 @@ Go over Sprint 2 and plan ahead for Sprint 3. Iron out any concerns or issues.
 - Planned ahead for Sprint 3 (creating doc and finding/dividing up tasks)
 ## End time
 05/29/24 11:30
+
+# Entry
+3
+## Start time
+06/5/24 11:00
+## Purpose
+Review Sprint 3 progress, figure out any issues and plan goals/tasks for Sprint 4.
+## Outcomes
+- Each shared current state and individual progress
+- Demoed spreadsheet UI and formula passing functionality
+- Ironed out issues and clarified uncertainties regarding project completion
+- Discussed saving feature and how to implement it
+- Made plans for integration of front and back end
+- Made plans for project completion by EOW
+- Planned out tasks/goals for final sprint
+- Discussed collaboration on integration
+## End time
+06/5/24 11:30
