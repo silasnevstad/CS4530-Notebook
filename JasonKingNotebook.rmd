@@ -20,7 +20,7 @@ Finished all my Sprint 1 Work
 Review sprint 1 work before I commit it, start Sprint 2 to scope out how hard it will be tomorrow
 ## Outcomes
 Reviewed Sprint 1 work,  started Sprint 2 formatting.
-+100 LOC 
++150 LOC 
 -Added more to my Spreadsheet APP Class for formatting
 ## End time
 05/28/24 8:00
@@ -33,7 +33,7 @@ Reviewed Sprint 1 work,  started Sprint 2 formatting.
 Finish all my sprint 2 work and see if I can do anything extra 
 ## Outcomes
 Finsihed my Sprint 2 work(formatting bold, italics, text color, background color, making sure those work with everything else) was unable to do anything extra 
-+150 LOC 
++~200 LOC 
 -Added more to my Spreadsheet APP Class for formatting and added a CellSpan class and Cell formatting class
 ## End time
 05/31/24 5:30
@@ -46,7 +46,7 @@ Finsihed my Sprint 2 work(formatting bold, italics, text color, background color
 Finish my Sprint 3 work and see if I can do anything extra.
 ## Outcomes
 Finsihed my Sprint 3 work, tried to implement a CSV importer because I had more time, succeeded, tried to implement merging Cells but couldn't get it working because JavaFX tableviews don't natively support it, and the workarounds were not working.
-+150 LOC 
++ ~200 LOC 
 -Added a CSV importer class and made adjustments to SpreadsheetAPP and SpreadSheet Utils and Formula Parser.
 ## End time
 06/2/24 6:00
@@ -60,7 +60,7 @@ Finsihed my Sprint 3 work, tried to implement a CSV importer because I had more 
 Refactor code to add in more comments for readability, as well as implement feedback from code walk (be able to enter formulas with greater flexibility and ensure they work with more than 26 columns.
 ## Outcomes
 Code has more comments and the desired improvements where made to my formulas. Also added formulas I forgot to for Sprint 1.
-+ ~50 LOC 
--Was more adding comments and changing code than adding lines
++ ~100 LOC 
+-Was more adding comments and changing code than adding lines. Final code count is sitting at about 1060 LOC.
 ## End time
 06/5/24 12:30
