@@ -198,3 +198,36 @@ Add documentation (including owner tags to files), create more tests for edge ca
 - Added invalid input checks for every endpoint and function (checking if input is invalid)
 ## End time
 06/06/24 19:15
+
+# Entry
+13
+## Start time
+06/07/24 22:00
+## Purpose
+Test coverage + report
+## Outcomes
+- Added jacoco plugin
+- Experimented with IntelliJ run configurations (to add code coverage)
+- Test code coverage
+- Found nit bug in controller testing file
+  - Looked for fixes
+## End time
+06/07/24 22:20
+
+# Entry
+14
+## Start time
+06/08/24 14:10
+## Purpose
+Test coverage + report, fix nit in controller testing code
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/71af15c89760035eae8fd1bb17dc987db7f8b3a2
+## Ownership
+-19 +716 = 2740
+-45 +321 = 3016
+## Outcomes
+- Fixed nit bug in testing code
+- Added more tests to reach 100% coverage
+- Completed test code coverage with 100%
+## End time
+06/08/24 14:50
