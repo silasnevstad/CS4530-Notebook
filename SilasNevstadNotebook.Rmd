@@ -227,6 +227,7 @@ https://github.com/silasnevstad/CS4530-Project/commit/71af15c89760035eae8fd1bb17
 -45 +321 = 3016
 ## Outcomes
 - Fixed nit bug in testing code
+- Nit: Prevent invalid Authorization header to avoid having to check against users
 - Added more tests to reach 100% coverage
 - Completed test code coverage with 100%
 ## End time
