@@ -27,7 +27,7 @@ Go over Sprint 2 and plan ahead for Sprint 3. Iron out any concerns or issues.
 # Entry
 3
 ## Start time
-06/5/24 11:00
+06/05/24 11:00
 ## Purpose
 Review Sprint 3 progress, figure out any issues and plan goals/tasks for Sprint 4.
 ## Outcomes
@@ -40,12 +40,12 @@ Review Sprint 3 progress, figure out any issues and plan goals/tasks for Sprint 
 - Planned out tasks/goals for final sprint
 - Discussed collaboration on integration
 ## End time
-06/5/24 11:30
+06/05/24 11:30
 
 # Entry
 4
 ## Start time
-06/6/24 5:30
+06/06/24 17:30
 ## Purpose
 Touch base on progress/remaining goals and tasks, demo the backend, plan next meeting time.
 ## Outcomes
@@ -53,4 +53,17 @@ Touch base on progress/remaining goals and tasks, demo the backend, plan next me
 - Demoed backend
 - Decided on data/time for next meeting
 ## End time
-06/6/24 5:55
+06/06/24 17:55
+
+# Entry
+4
+## Start time
+06/09/24 15:30
+## Purpose
+Touch base on integration of all seperate components and determine remaining tasks
+## Outcomes
+- Touched base on current progress
+- Discussed test code coverage reports
+- Planned next potential meeting
+## End time
+06/09/24 15:40
