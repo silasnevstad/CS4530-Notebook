@@ -116,3 +116,30 @@ Meet with team to discuss final stretch work and coordinate integration between 
 - Scheduled demo with TA
 ## End Time
 6/6/24 6:00
+
+# Entry
+10
+## Start Time
+6/8/24 8:00
+## Purpose
+Continue work on expressions
+## Ownership
++ ~100 = ~700
+## Outcomes
+- Created methods for verifying that a String is a valid expression
+## End Time
+6/8/24 10:00
+
+# Entry
+11
+## Start Time
+6/9/24 6:00
+## Purpose
+Complete expression and function evaluation needs
+## Ownership
++ ~150 = ~850
+## Outcomes
+- Created methods for evaluating expressions
+- Created methods for evaluating functions
+## End Time
+6/9/24 12:00
