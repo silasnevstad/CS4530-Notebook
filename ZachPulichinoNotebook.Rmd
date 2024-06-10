@@ -128,3 +128,22 @@ Fix bugs and add other methods into the Arithmetic Parser
 [Main]: https://github.com/silasnevstad/CS4530-Project/commit/fabde57f7b08d50cec16145f7dd7cc36237b786c 
 ## Outcome
 Added more arithmetic operations to the arithmetic parser, and also turned the operator type to a string so it could read "<>". Also fixed the bug in the Main file regarding the arithmetic parser.
+## End time
+06/05/24 20:00
+
+# Entry
+12
+## Start Time
+06/10/24 8:30
+## Purpose
+Integrate Jason's work with mine so the spreadhseet would be completely functional
+## Ownership
+641 + 99 = 740
+740 + 11 = 755
+## Commits
+[Main]: https://github.com/silasnevstad/CS4530-Project/commit/fe66685861ecf12a724ccd0a076924b2a7480d16?diff=unified&w=0
+[Arithmetic Parser]: https://github.com/silasnevstad/CS4530-Project/commit/c85531b365cb5a583e3704da6b2cc2d222da990c
+## Outcome
+The spreadsheet is completely functional with all fomrulas and arithmetic working. Able to edit the stlye of any given cell. Also able to import csv files into the spreadsheet
+# End time
+06/10/24 11:30
