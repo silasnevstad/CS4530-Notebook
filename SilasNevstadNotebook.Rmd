@@ -232,3 +232,26 @@ https://github.com/silasnevstad/CS4530-Project/commit/71af15c89760035eae8fd1bb17
 - Completed test code coverage with 100%
 ## End time
 06/08/24 14:50
+
+# Entry
+15
+## Start time
+06/11/24 11:10
+## Purpose
+Integrate front/back end + Frontend saving/pulling updates functionality + Setup docker files and docker-compose + Restructure app folders/files
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/72839d3e2a35bfbaf9272ffd9abed6892d555894
+https://github.com/silasnevstad/CS4530-Project/commit/7432cc3803fe26a02bae304840ad84226814f0ce
+## Ownership
+-7628 +552 = 3568
+- 2 +70 = 3636
+## Outcomes
+- Restructured project directory to seperate front and back end, etc.
+- Setup backend service for frontend interaction with server
+- Added saving functionality (using timer)
+- Added pulling in updates functionality (using timer)
+- Setup dockerfiles + docker-compose (incomplete)
+- Found problem in backend server, fixed to allow for mutliple updates in one payload (when pushing uploads to server)
+  - Added tests to cover new logic
+## End time
+06/11/24 13:30
