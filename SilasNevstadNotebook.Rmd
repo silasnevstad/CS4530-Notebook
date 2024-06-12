@@ -261,11 +261,12 @@ https://github.com/silasnevstad/CS4530-Project/commit/7432cc3803fe26a02bae304840
 ## Start time
 06/11/24 21:00
 ## Purpose
-Fix dockerization + differentiate between owners and subscribers
+Fix dockerization + differentiate between owners and subscribers + fix client javafx issue
 ## Commit(s)
 https://github.com/silasnevstad/CS4530-Project/commit/3a72a746e4e8da7365127373c15d312ebd6e8285
+https://github.com/silasnevstad/CS4530-Project/commit/951cb94e380195be74529fac6657bee12f306e88
 ## Ownership
--5 +44 = 3675
+-6 +48 = 3678
 ## Outcomes
 - No luck fixing dockerization
 - Added functionality to differentiate between owners and subscribers when pushing and pulling updates to the server
