@@ -147,3 +147,21 @@ Integrate Jason's work with mine so the spreadhseet would be completely function
 The spreadsheet is completely functional with all fomrulas and arithmetic working. Able to edit the stlye of any given cell. Also able to import csv files into the spreadsheet
 # End time
 06/10/24 11:30
+
+
+# Entry 13
+## Start Time
+06/11/24 19:00
+## Purpose
+Integrate Nicks Welcome page and sheet selection page with the spreadsheet to complete functionality.
+# Ownership
+755 + 27 = 783
+783 + 27 = 810
+## Commits
+https://github.com/silasnevstad/CS4530-Project/commit/cca3a07f043ec925bcbdb47d51b57ec073bf59b2
+https://github.com/silasnevstad/CS4530-Project/commit/bb88c182d661e11de8270971b48c10d2e2c5722e
+https://github.com/silasnevstad/CS4530-Project/commit/b46c0d37920c01c95843c0a9b1392b3004c0b5de
+## Outcome
+The pages appear in the correct order. The create create a new sheet button doesn't seem to work because of a certifaction issue. Everything else seems to be working.
+# End Time
+06/11/24 22:45
