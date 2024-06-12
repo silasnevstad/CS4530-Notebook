@@ -272,3 +272,24 @@ https://github.com/silasnevstad/CS4530-Project/commit/951cb94e380195be74529fac66
 - Added functionality to differentiate between owners and subscribers when pushing and pulling updates to the server
 ## End time
 06/11/24 21:30
+
+# Entry
+17
+## Start time
+06/11/24 23:00
+## Purpose
+Fix cert issues
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/eb37c2819c9f40c854fd534f5b4a444258f69631
+https://github.com/silasnevstad/CS4530-Project/commit/ddf21bdf2b541c7f1ab3e9c133ab1132caf5f2d7
+https://github.com/silasnevstad/CS4530-Project/commit/42f984c086a1472e91299501ff5bbf122126450d
+## Ownership
+-8 +18 = 3688
+-1 +1 = 3688
+-1 +2 = 3689
+## Outcomes
+- Investigated "can't find valid certificate" error and solved by providing the custom truststore to the command line when running client
+- Fixed/Tested saving and getting updates feature
+- Updated Makefile to use custom truststore
+## End time
+06/11/24 23:30
