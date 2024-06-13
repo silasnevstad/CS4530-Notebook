@@ -314,3 +314,18 @@ https://github.com/silasnevstad/CS4530-Project/commit/65e38c613f9efab0c484439629
 - Worked on bonus renaming feature
 ## End time
 06/11/24 20:00
+
+# Entry
+19
+## Start time
+06/13/24 17:45
+## Purpose
+Setup client with professor's server
+## Ownership
+=4043
+## Outcomes
+- Ran into SSL handshake errors
+- Tried to get the certificate/certificate chain using WireShark
+- Managed to get all certificate and add to truststore but getting same SSL handshake error
+## End time
+06/11/24 19:20
