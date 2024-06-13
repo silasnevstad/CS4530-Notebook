@@ -326,6 +326,6 @@ Setup client with professor's server
 ## Outcomes
 - Ran into SSL handshake errors
 - Tried to get the certificate/certificate chain using WireShark
-- Managed to get all certificate and add to truststore but getting same SSL handshake error
+- Managed to get all certificates and add to truststore but getting same SSL handshake error
 ## End time
 06/11/24 19:20
