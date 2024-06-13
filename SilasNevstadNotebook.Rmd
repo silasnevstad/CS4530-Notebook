@@ -293,3 +293,24 @@ https://github.com/silasnevstad/CS4530-Project/commit/42f984c086a1472e91299501ff
 - Updated Makefile to use custom truststore
 ## End time
 06/11/24 23:30
+
+# Entry
+18
+## Start time
+06/12/24 16:30
+## Purpose
+Finish project: setup transitions from welcome page, sheet select page and spreadsheet view + fix login + fix create sheet + restructure frontend folders
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/65e38c613f9efab0c4844396299afee37ee41423
+## Ownership
+-683 +1,037 =4043
+## Outcomes
+- Got most things working (still a few things missing/minor flaws)
+- Fixed login page to allow for publisher name (checking auth and registering)
+- Updated sheet select page to show sheets in ListView and allow user to open sheets
+- Refactored code
+- Fixed create sheet problems (reported from group member)
+- Restructed/organized frontend folders
+- Worked on bonus renaming feature
+## End time
+06/11/24 20:00
