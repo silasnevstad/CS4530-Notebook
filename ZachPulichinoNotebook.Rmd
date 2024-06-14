@@ -165,3 +165,26 @@ https://github.com/silasnevstad/CS4530-Project/commit/b46c0d37920c01c95843c0a9b1
 The pages appear in the correct order. The create create a new sheet button doesn't seem to work because of a certifaction issue. Everything else seems to be working.
 # End Time
 06/11/24 22:45
+
+# Entry 15
+## Start Time
+06/14/24 13:30
+## Purpose
+Add tests to the github for the SheetView File and the Arithmetic Parser. Created Delete Sheet button for Sheet Select Page,
+added the ability to put in a sheet name while create a new sheet. Error windows pop up when sheet can't be created or deleted.
+Added back to sheet select page on spreadsheet. Added COPY function to formula parser.
+# Ownership
+810 + 37 = 847
+847 + 358 = 1205
+1205 + 213 = 1418
+1418 + 22 = 1440
+1440 + 36 = 1476
+# Commits
+https://github.com/silasnevstad/CS4530-Project/commit/716494a8197ff3aef7d309c8df4e95673961f891
+https://github.com/silasnevstad/CS4530-Project/commit/67016df807acd697e4f2345d95104562fb757a4c
+https://github.com/silasnevstad/CS4530-Project/commit/4b92cb8422ddb9806c9b5f49d709f44ae9a5edcb
+https://github.com/silasnevstad/CS4530-Project/commit/743d86b70afd99a3e348f0deeb8d2da287eb96db
+## Outcomes
+Implemented a back button from the sheet which sends you back to the sheet select page. Added tests to the github.
+# End Time
+16:15
