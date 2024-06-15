@@ -348,3 +348,29 @@ https://github.com/silasnevstad/CS4530-Project/commit/94d9c78589a9afa15d287f93d1
 - Added encryption script (to encrypt truststore, keystore, etc)
 ## End time
 06/11/24 19:20
+
+# Entry
+20
+## Start time
+06/14/24 15:15
+## Purpose
+Fix client with professor's server + last upadated/saved indicator for spreadsheet view + fix UI tests + refactoring UI + small fixes (pass name to sheet, etc)  
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/c5a1485e0798c769ffd1776486ff0ac635463375
+https://github.com/silasnevstad/CS4530-Project/commit/2fedff08c34b951dcdab3ef8310754ed2b2df8f5
+https://github.com/silasnevstad/CS4530-Project/commit/6403caa80fe8bc4336c91bafb976f839a76bd7df
+https://github.com/silasnevstad/CS4530-Project/commit/a4a51953c2082827761fbcb61dadf5304a5a80e4
+https://github.com/silasnevstad/CS4530-Project/commit/9b3e59705df1d151052c4bb07976e4878f3c02db
+https://github.com/silasnevstad/CS4530-Project/commit/0257d944d602f6f2119fc49af7030f429b6c1743
+https://github.com/silasnevstad/CS4530-Project/commit/1b85f4dab10c446211722e2c406b6ec016ae2938
+## Ownership
+-1223(not my code) +552 =4618
+## Outcomes
+- Fixed client to work with professor's server
+- Added status bar with last updated/saved indicator
+- Fixed UI tests
+- Refactor UI (to have a singular application)
+- Passing name to sheet
+- Small nit fixes
+## End time
+06/11/24 19:50
