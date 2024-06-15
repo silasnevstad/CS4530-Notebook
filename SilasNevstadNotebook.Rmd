@@ -374,3 +374,23 @@ https://github.com/silasnevstad/CS4530-Project/commit/1b85f4dab10c446211722e2c40
 - Small nit fixes
 ## End time
 06/11/24 19:50
+
+# Entry
+20
+## Start time
+06/14/24 20:50
+## Purpose
+Fix multiple clients working on same sheet + get docker fixed + fix breaks + check everything for demo
+## Commit(s)
+https://github.com/silasnevstad/CS4530-Project/commit/f9e3963f4083a544978e6c53a3fb3956fa836287
+https://github.com/silasnevstad/CS4530-Project/commit/f5ed506ae9521fc2c02a5ee3f7632710cdb496e4
+https://github.com/silasnevstad/CS4530-Project/commit/81699c14d5798ab790acdda4b4e0f09eae23757f
+## Ownership
+-61 +330 =4887
+## Outcomes
+- Tried to get mutliple clients working, diagnosed issue, found it's related to client/ui side, tried different attempts (could not figure it out)
+- Tried to get docker working, still no luck. Failing frontend tests were causing issues with docker-compose build, so had to try fix these...
+- Went through commits to fix breaking issues
+- Checked and verified everything for demo
+## End time
+06/11/24 23:40
