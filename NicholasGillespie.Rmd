@@ -143,3 +143,55 @@ Complete expression and function evaluation needs
 - Created methods for evaluating functions
 ## End Time
 6/9/24 12:00
+
+# Entry
+12
+## Start Time
+6/11/24 7:00
+## Purpose
+Write tests for WelcomePageController and SheetSelectPageController
+## Ownership
++ ~50 = 900
+## Outcomes
+- Ran into trouble with a strange error that I was unable to figure out and overcome
+## End Time
+6/9/24 8:30
+
+# Entry
+12
+## Start Time
+6/11/24 7:00
+## Purpose
+Write tests for WelcomePageController and SheetSelectPageController
+## Ownership
++ ~50 = 900
+## Outcomes
+- Ran into trouble with a strange error that I was unable to figure out and overcome
+## End Time
+6/9/24 8:30
+
+# Entry
+13
+## Start Time
+6/12/24 4:30
+## Purpose
+Figure out testing error ExceptionInInitializerError occuring in WelcomePageController and SheetSelectPageController
+## Outcomes
+- Figured out and solved the error occuring from one part of the code only to be stuck again when it frustatingly immediately just shifted farther down the stack trace where the error was occuring
+## End Time
+6/9/24 6:00
+
+# Entry
+14
+## Start Time
+6/14/24 2:00
+## Purpose
+Finish tests and make sure to finalize everything for project submission
+## Ownership
++ ~350 = 1250
+## Outcomes
+- Was again unable to solve the testing error but I wrote tests for each function just to show that the work was done but its just not working for an unknown reason
+- Added ownership to relevant files
+- Completed exit interview google form
+## End Time
+6/4/24 12:00
